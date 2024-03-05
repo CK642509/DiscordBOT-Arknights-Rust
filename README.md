@@ -43,3 +43,6 @@ cargo run --release
 cargo build --release
 ```
 > 得到的結果會放在 `target/release` 資料夾中
+
+#### 安裝套件
+編輯 `Cargo.toml`，下次操作就會自動安裝了
